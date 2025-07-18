@@ -2,7 +2,7 @@
 A personal repository documenting my journey through the fundamentals of Python programming. This includes variables, data types, control structures, functions, and more.
 ## 📂 Repository Structure
 
-- `01-Variables.py`: Introduction to variables and basic data types (strings, numbers, booleans, sequences).
+- `01_Hello_World.py`: Introduction to variables and basic data types (strings, numbers, booleans, sequences).
 
 ## ✅ Progress Tracker
 
