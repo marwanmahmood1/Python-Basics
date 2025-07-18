@@ -8,34 +8,29 @@
 # -------------------------------------
 # 1. STRING (str): Textual data
 name = "Adam"
+print(name)
 
-# 2. NUMERIC:
-age = 30              # int
-height = 1.75         # float
-complex_num = 2 + 3j  # complex
+# 2. NUMERIC TYPES
+age = 30              # Integer
+height = 1.75         # Float
+complex_num = 2 + 3j  # Complex number
+print(age)
+print(height)
+print(complex_num)
 
 # 3. BOOLEAN (bool): True or False values
 is_student = True
+print(is_student)
 
-# 4. SEQUENCES:
-# - List: Mutable, ordered
+# 4. SEQUENCES
+# - List: Mutable, ordered collection
 fruits = ["apple", "banana", "cherry"]
+print(fruits)
 
-# - Tuple: Immutable, ordered
+# - Tuple: Immutable, ordered collection
 colors = ("red", "green", "blue")
+print(colors)
 
 # - Range: Immutable sequence of numbers
 even_numbers = range(0, 10, 2)
-
-# Example:
-character_name = "John"
-character_age = "35"
-
-if character_name == "John":
-    print("There once was a man named " + character_name + ", ")
-    print("he was " + character_age + " years old.")
-
-character_name = "Luke"
-
-print("He did not like the name " + character_name + ", ")
-print("but he also did not like being " + character_age + ".")
+print(list(even_numbers))  # Convert range to list for display
