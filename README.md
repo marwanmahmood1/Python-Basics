@@ -1,5 +1,6 @@
 # Python-Basics
 A personal repository documenting my journey through the fundamentals of Python programming. This includes variables, data types, control structures, functions, and more.
+(Based on the [freeCodeCamp Python for Beginners](https://youtu.be/rfscVS0vtbw) video.)
 ## 📂 Repository Structure
 
 - `01_Hello_World.py`: Introduction to variables and basic data types (strings, numbers, booleans, sequences).
