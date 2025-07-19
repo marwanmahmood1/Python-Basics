@@ -6,14 +6,30 @@ A personal repository documenting my journey through the fundamentals of Python 
 
 ## ✅ Progress Tracker
 
-- [x] Variables & Data Types
-- [ ] Conditionals
-- [ ] Loops
+### ✅ Python Basics Progress Tracker
+
+- [x] Hello World
+- [x] Comments
+- [x] Variables
+- [x] Data Types
+- [ ] Type Casting
+- [ ] User Input
+- [ ] Arithmetic Operators
+- [ ] String Methods
+- [ ] Math Functions
+- [ ] If Statements
+- [ ] Logical Operators
+- [ ] While Loops
+- [ ] For Loops
+- [ ] Nested Loops
+- [ ] 2D Lists
+- [ ] Break & Continue
 - [ ] Functions
-- [ ] Lists & Tuples
-- [ ] Dictionaries
-- [ ] File I/O
-- [ ] Modules
+- [ ] Return Statements
+- [ ] Keyword Arguments
+- [ ] Nested Functions
+- [ ] Scope
+- [ ] *More coming soon...*
 
 ## ▶️ How to Run
 
