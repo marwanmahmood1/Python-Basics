@@ -12,7 +12,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Comments
 - [x] Variables
 - [x] Data Types
-- [ ] Type Casting
+- [x] Type Casting
 - [ ] User Input
 - [ ] Arithmetic Operators
 - [ ] String Methods
