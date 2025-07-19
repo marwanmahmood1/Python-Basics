@@ -6,8 +6,6 @@ A personal repository documenting my journey through the fundamentals of Python 
 
 ## ✅ Progress Tracker
 
-### ✅ Python Basics Progress Tracker
-
 - [x] Hello World
 - [x] Comments
 - [x] Variables
@@ -41,4 +39,4 @@ To run any Python file in this repository:
 4. Run the script using:
 
 ```bash
-python 01-Variables.py
+python 01_Hello_World.py
