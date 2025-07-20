@@ -15,7 +15,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Type Casting
 - [x] User Input
 - [x] Arithmetic Operators
-- [ ] String Methods
+- [x] String Methods
 - [ ] Math Functions
 - [ ] If Statements
 - [ ] Logical Operators
