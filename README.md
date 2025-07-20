@@ -1,4 +1,4 @@
-# Python-Basics
+# Python Basics
 A personal repository documenting my journey through the fundamentals of Python programming. This includes variables, data types, control structures, functions, and more.
 
 
@@ -13,7 +13,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Variables
 - [x] Data Types
 - [x] Type Casting
-- [ ] User Input
+- [x] User Input
 - [ ] Arithmetic Operators
 - [ ] String Methods
 - [ ] Math Functions
