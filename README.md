@@ -13,7 +13,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Variables
 - [x] Data Types
 - [x] Type Casting
-- [ ] User Input
+- [x] User Input
 - [ ] Arithmetic Operators
 - [ ] String Methods
 - [ ] Math Functions
