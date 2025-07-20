@@ -1,4 +1,4 @@
-# Python-Basics
+# Python Basics
 A personal repository documenting my journey through the fundamentals of Python programming. This includes variables, data types, control structures, functions, and more.
 
 
