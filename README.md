@@ -16,7 +16,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] User Input
 - [x] Arithmetic Operators
 - [x] String Methods
-- [ ] Math Functions
+- [x] Math Functions
 - [ ] If Statements
 - [ ] Logical Operators
 - [ ] While Loops
