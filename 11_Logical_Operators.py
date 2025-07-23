@@ -9,7 +9,7 @@
 # - 'not' reverses the value of a boolean condition (True becomes False, and vice versa)
 
 # - Comparison operators: age >= 18
-# This script demonstrates how to use logical operators (and, or, not) in decision-making with simple real-world examples.25
+# This script demonstrates how to use logical operators (and, or, not) in decision-making with simple real-world examples.
 
 # Example: Club Entry Checker
 
