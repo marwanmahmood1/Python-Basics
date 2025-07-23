@@ -22,6 +22,6 @@ for fruit in fruits:
 for letter in "Python":
     print(letter)
 
-# Example 3: Using range()
-for number in range(1, 6):  # range(start, stop)
+# Example 3: Using range() 
+for number in range(1, 6):  # This iterates all numbers in a given span (start, stop) or (start, stop, step)
     print("Number:", number)
