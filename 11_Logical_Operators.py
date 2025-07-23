@@ -3,7 +3,7 @@
 # ============================
 
 # Logical Operators are those that build on conditionals and allow for more complex decision-making in programs
-# What You Learned:
+
 # - 'and' requires both conditions to be True
 # - 'or' allows action if at least one condition is True
 # - 'not' reverses the value of a boolean condition (True becomes False, and vice versa)
