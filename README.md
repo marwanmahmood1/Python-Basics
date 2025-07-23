@@ -20,7 +20,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] If Statements
 - [x] Logical Operators
 - [x] While Loops
-- [ ] For Loops
+- [x] For Loops
 - [ ] Nested Loops
 - [ ] 2D Lists
 - [ ] Break & Continue
