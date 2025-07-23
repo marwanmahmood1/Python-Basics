@@ -19,7 +19,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Math Functions
 - [x] If Statements
 - [x] Logical Operators
-- [ ] While Loops
+- [x] While Loops
 - [ ] For Loops
 - [ ] Nested Loops
 - [ ] 2D Lists
