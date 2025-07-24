@@ -23,7 +23,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] For Loops
 - [x] Nested Loops
 - [x] 2D Lists
-- [ ] Break & Continue
+- [x] Break & Continue
 - [ ] Functions
 - [ ] Return Statements
 - [ ] Keyword Arguments
