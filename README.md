@@ -31,7 +31,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [ ] Scope
 - [ ] *More coming soon...*
 
-## Projects
+## 🤖 Projects
 ### Mini Project 1 – Password Strength Checker
 A beginner-friendly CLI application that evaluates password strength based on:
 - Length
