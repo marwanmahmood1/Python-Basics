@@ -1,24 +1,27 @@
 # =========================
 # PASSWORD STRENGTH CHECKER
 # =========================
+# This script evaluates the strength of a given password based on:
+# - Length
+# - Uppercase & lowercase letters
+# - Numbers
+# - Special characters
+# It also checks against a small list of common weak passwords as well as provides suggestions for improvement.
 
 import string  # For special characters
 
 # Common weak passwords
-weak_passwords = ["11111111", "password", "12345678", "qwerty", "abc123"]
+weak_passwords = ["123456", "password", "12345678", "qwerty", "abc123"]
 
 print("Welcome to the Password Strength Checker!")
+password = input("Enter your password: ")
 
-while True:
-    password = input("\nPlease enter your password: ")
-
-    # Check for common weak passwords
-    if password in weak_passwords:
-        print("Your password is too common and easy to guess. Please choose a stronger password.")
-        continue  # Ask again
-
+# Check for common weak passwords
+if password in weak_passwords:
+    print("Your password is too common and easy to guess. Please choose a stronger password.")
+else:
     strength_score = 0
-    feedback = []  # Collects reasons for weakness
+    feedback = []
 
     # Minimum length
     if len(password) >= 8:
@@ -57,8 +60,6 @@ while True:
         print("Password Strength: MEDIUM")
     else:
         print("Password Strength: STRONG")
-        print("Great! Your password is secure enough.")
-        break  # Exit the loop if strong
 
     # Print feedback if any
     if feedback:
