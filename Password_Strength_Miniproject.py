@@ -2,45 +2,66 @@
 # PASSWORD STRENGTH CHECKER
 # =========================
 
-import string  # for special characters set
+import string  # For special characters
 
-# Common weak password samples
+# Common weak passwords
 weak_passwords = ["11111111", "password", "12345678", "qwerty", "abc123"]
 
 print("Welcome to the Password Strength Checker!")
-password = input("Please enter your password: ")
 
-# Weak password check
-if password in weak_passwords:
-    print("Your password is too common and easy to guess. Please choose a stronger password.")
-else:
+while True:
+    password = input("\nPlease enter your password: ")
+
+    # Check for common weak passwords
+    if password in weak_passwords:
+        print("Your password is too common and easy to guess. Please choose a stronger password.")
+        continue  # Ask again
+
     strength_score = 0
+    feedback = []  # Collects reasons for weakness
 
-    # Check minimum length
+    # Minimum length
     if len(password) >= 8:
         strength_score += 1
+    else:
+        feedback.append("Password should be at least 8 characters long.")
 
-    # Check for uppercase
+    # Uppercase letters
     if any(char.isupper() for char in password):
         strength_score += 1
+    else:
+        feedback.append("Add at least one uppercase letter.")
 
-    # Check for lowercase
+    # Lowercase letters
     if any(char.islower() for char in password):
         strength_score += 1
+    else:
+        feedback.append("Add at least one lowercase letter.")
 
-    # Check for digits
+    # Digits
     if any(char.isdigit() for char in password):
         strength_score += 1
+    else:
+        feedback.append("Include at least one number.")
 
-    # Check for special characters
-    special_characters = string.punctuation
-    if any(char in special_characters for char in password):
+    # Special characters
+    if any(char in string.punctuation for char in password):
         strength_score += 1
+    else:
+        feedback.append("Include at least one special character (e.g., !@#$%).")
 
-    # Strength rating
+    # Strength result
     if strength_score <= 2:
         print("Password Strength: WEAK")
     elif strength_score == 3 or strength_score == 4:
         print("Password Strength: MEDIUM")
     else:
         print("Password Strength: STRONG")
+        print("Great! Your password is secure enough.")
+        break  # Exit the loop if strong
+
+    # Print feedback if any
+    if feedback:
+        print("\nSuggestions to improve your password:")
+        for tip in feedback:
+            print("-", tip)
