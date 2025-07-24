@@ -1,5 +1,5 @@
 # ======================
-#         FOR LOOPS
+#           FOR LOOPS
 # ======================
 
 # A "for loop" is used to repeat a block of code for each item in a sequence.
