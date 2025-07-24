@@ -31,6 +31,16 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [ ] Scope
 - [ ] *More coming soon...*
 
+## Projects
+### Mini Project 1 – Password Strength Checker
+A beginner-friendly CLI application that evaluates password strength based on:
+- Length
+- Uppercase & lowercase letters
+- Numbers
+- Special characters  
+It also checks against a small list of common weak passwords and provides feedback for improvement.
+
+
 ## ▶️ How to Run
 
 To run any Python file in this repository:
