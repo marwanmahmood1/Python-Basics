@@ -23,13 +23,23 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] For Loops
 - [x] Nested Loops
 - [x] 2D Lists
-- [ ] Break & Continue
+- [x] Break & Continue
 - [ ] Functions
 - [ ] Return Statements
 - [ ] Keyword Arguments
 - [ ] Nested Functions
 - [ ] Scope
 - [ ] *More coming soon...*
+
+## 🤖 Projects
+### Mini Project 1 – Password Strength Checker
+A beginner-friendly CLI application that evaluates password strength based on:
+- Length
+- Uppercase & lowercase letters
+- Numbers
+- Special characters  
+It also checks against a small list of common weak passwords and provides feedback for improvement.
+
 
 ## ▶️ How to Run
 
