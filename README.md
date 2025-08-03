@@ -25,7 +25,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] 2D Lists
 - [x] Break & Continue
 - [x] Functions
-- [ ] Return Statements
+- [x] Return Statements
 - [ ] Keyword Arguments
 - [ ] Nested Functions
 - [ ] Scope
