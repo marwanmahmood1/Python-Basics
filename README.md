@@ -28,7 +28,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Return Statements
 - [x] Keyword Arguments
 - [x] Nested Functions
-- [ ] Scope
+- [x] Scope
 - [ ] *More coming soon...*
 
 ## 🤖 Projects
