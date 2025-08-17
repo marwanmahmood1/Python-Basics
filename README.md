@@ -26,7 +26,7 @@ This repository is organized to match a beginner-friendly learning path in Pytho
 - [x] Break & Continue
 - [x] Functions
 - [x] Return Statements
-- [ ] Keyword Arguments
+- [x] Keyword Arguments
 - [ ] Nested Functions
 - [ ] Scope
 - [ ] *More coming soon...*
