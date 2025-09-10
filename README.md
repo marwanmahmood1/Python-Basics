@@ -11,50 +11,56 @@ This repo covers **fundamental concepts, practical examples, and projects** to b
 
 ### 1. Introduction  
 - [x] Hello World  
+- [x] Comments  
 - [x] Variables & Data Types  
+- [x] Type Casting  
 - [x] User Input  
+- [x] Arithmetic Operators  
 
 ### 2. Control Flow  
-- [x] Conditionals (`if`, `elif`, `else`)  
-- [x] Loops (`for`, `while`)  
+- [x] If Statements  
+- [x] Logical Operators  
+- [x] While Loops  
+- [x] For Loops  
 - [x] Nested Loops  
+- [x] Break & Continue  
 
 ### 3. Functions & Scope  
-- [ ] Defining Functions  
-- [ ] Parameters & Return Values  
-- [ ] Scope (Local vs Global)  
-- [ ] Nested Functions  
+- [x] Defining Functions  
+- [x] Return Statements  
+- [x] Keyword Arguments  
+- [x] Nested Functions  
+- [x] Scope  
 
 ### 4. Data Structures  
-- [ ] Lists  
-- [ ] Tuples  
-- [ ] Sets  
-- [ ] Dictionaries  
+- [x] Strings  
+- [x] Lists
+- [x] 2D Lists
+- [x] Tuples
+- [x] Sets
+- [x] Dictionaries  
 
 ### 5. Modules & Packages  
-- [ ] Importing Modules  
-- [ ] Built-in Modules (`math`, `random`, `datetime`)  
+- [x] Math Functions  
+- [x] Importing Modules  
+- [x] Built-in Modules (`math`, `random`, `datetime`)  
 
 ### 6. File Handling  
-- [ ] Reading Files  
-- [ ] Writing Files  
-- [ ] Using `with` Statement  
+- [x] Reading Files  
+- [x] Writing Files  
+- [x] Using `with` Statement  
 
 ### 7. Error Handling  
 - [ ] Try/Except  
+- [ ] Else & Finally  
 - [ ] Raising Exceptions  
 - [ ] Custom Exceptions  
 
 ### 8. Object-Oriented Programming (OOP)  
 - [ ] Classes & Objects  
-- [ ] Attributes & Methods  
-- [ ] Inheritance  
-- [ ] Polymorphism  
-- [ ] Encapsulation  
 
 ### 9. Projects  
-
-- [ ] **Project 1: Password Strength Checker** (Loops + Conditionals + Functions)  
+- [x] **Project 1: Password Strength Checker** (Loops + Conditionals + Functions)  
 - [ ] **Project 2: Text Adventure Game** (Loops + Functions + OOP)  
 - [ ] **Project 3: Expense Tracker** (File Handling + Dictionaries)  
 
@@ -70,7 +76,6 @@ A beginner-friendly CLI application that evaluates password strength based on:
 - Special characters  
 
 It also checks against a small list of common weak passwords and provides feedback for improvement.  
-
 
 ---
 
