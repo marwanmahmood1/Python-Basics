@@ -101,7 +101,6 @@ This project is designed as a base you can build on. Some ideas:
 
 ## 🏆 Project 3 – Personal Expense Tracker
 
-### 📝 Explanation
 This project demonstrates how to build a **practical Python application** that saves and retrieves user data. It combines key programming concepts you’ve learned throughout the course:
 
 1. **File Handling** – Reading and writing expenses to a file ensures that data persists between sessions.  
@@ -112,9 +111,8 @@ This project demonstrates how to build a **practical Python application** that s
 
 By completing this project, you practice **real-world coding skills** while applying the fundamentals of Python in a way that directly solves a problem people face in daily life.
 
----
 
-### 🚀 Expansion Ideas
+### Improving The Program
 Once you master the basics, you can **expand this project** with new features:
 
 - Add **date tracking** for each expense.  
