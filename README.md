@@ -51,13 +51,17 @@ This repo covers **fundamental concepts, practical examples, and projects** to b
 - [x] Using `with` Statement  
 
 ### 7. Error Handling  
-- [ ] Try/Except  
-- [ ] Else & Finally  
-- [ ] Raising Exceptions  
-- [ ] Custom Exceptions  
+- [x] Try/Except  
+- [x] Else & Finally  
+- [x] Raising Exceptions  
+- [x] Custom Exceptions  
 
 ### 8. Object-Oriented Programming (OOP)  
-- [ ] Classes & Objects  
+- [x] Classes & Objects
+- [x] Attributes & Methods
+- [x] Inheritance
+- [x] Encapsulation
+- [x] Polymorphism
 
 ### 9. Projects  
 - [x] **Project 1: Password Strength Checker** (Loops + Conditionals + Functions)  
