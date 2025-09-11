@@ -66,7 +66,7 @@ This repo covers **fundamental concepts, practical examples, and projects** to b
 
 ### 9. Projects  
 - [x] **Project 1: Password Strength Checker** (Loops + Conditionals + Functions)  
-- [ ] **Project 2: Text Adventure Game** (Loops + Functions + OOP)  
+- [x] **Project 2: Text Adventure Game** (Loops + Functions + OOP)  
 - [ ] **Project 3: Expense Tracker** (File Handling + Dictionaries)  
 
 ---
@@ -82,7 +82,24 @@ A beginner-friendly CLI application that evaluates password strength based on:
 
 It also checks against a small list of common weak passwords and provides feedback for improvement.  
 
+
+## 🎮 Project 2 – Text Adventure Game
+
+This project is a simple text-based adventure game.  
+- The player navigates through different rooms, makes choices, and can collect items in their inventory.  
+- It’s designed to teach you about **functions, conditionals, loops, and basic game logic** in Python.
+
+### Improving The Game
+This project is designed as a base you can build on. Some ideas:
+
+1. **More Choices** – Add new locations (forest, cave, river) with unique outcomes.  
+2. **Enemies** – Create an `Enemy` class and add simple combat (attack, defend, health).  
+3. **Items & Inventory** – Expand the inventory with potions, weapons, and keys. Items can heal or unlock new areas.  
+4. **Branching Storylines** – Choices can impact the story’s direction and endings. Example: helping an NPC may reward you later.  
+5. **Win/Loss Conditions** – Define victory by reaching treasure or defeating a final boss, and defeat by losing all health.  
+
 ---
+
 
 ## ▶️ How to Run  
 
