@@ -78,5 +78,4 @@ if __name__ == "__main__":
 #    - Win by reaching a treasure or defeating a final boss.
 #    - Lose if health reaches zero or if you make the wrong choices.
 #
-# By expanding step by step, you can turn this simple demo
-# into a full text-based RPG adventure!
+# By expanding step by step, you can turn this simple demo into a full text-based RPG adventure!
