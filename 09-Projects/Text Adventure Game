@@ -1,0 +1,82 @@
+# ================================
+#      TEXT ADVENTURE GAME
+# ================================
+# This project practices conditionals, loops, and OOP
+# Player makes choices that change the story outcome
+
+class Player:
+    def __init__(self, name):
+        self.name = name
+        self.health = 100
+        self.inventory = []
+
+    def take_damage(self, amount):
+        self.health -= amount
+        print(f"{self.name} took {amount} damage! Health = {self.health}")
+
+    def add_item(self, item):
+        self.inventory.append(item)
+        print(f"{item} added to your inventory!")
+
+# --- Game Functions ---
+def intro():
+    print("Welcome to the Adventure Game!")
+    name = input("What is your name, traveler? ")
+    return Player(name)
+
+def choose_path(player):
+    print("\nYou stand at a crossroad. Do you go left or right?")
+    choice = input("Enter 'left' or 'right': ").lower()
+
+    if choice == "left":
+        print("You encounter a wild wolf!")
+        player.take_damage(20)
+    elif choice == "right":
+        print("You found a treasure chest!")
+        player.add_item("Gold Coin")
+    else:
+        print("You wander aimlessly and lose time...")
+
+def game_loop():
+    player = intro()
+    print(f"\nGood luck, {player.name}!")
+    
+    # Run until health runs out or quit
+    while player.health > 0:
+        choose_path(player)
+        cont = input("\nDo you want to keep going? (yes/no): ").lower()
+        if cont != "yes":
+            break
+
+    print("\nGame Over! Thanks for playing")
+
+# --- Run Game ---
+if __name__ == "__main__":
+    game_loop()
+
+
+# ================================
+#     HOW TO EXPAND THIS GAME
+# ================================
+# 1. Add More Choices:
+#    - Instead of just "left" or "right", add more paths (forest, cave, river).
+#    - Each choice can lead to different outcomes.
+#
+# 2. Add Enemies:
+#    - Create an Enemy class with health and attack power.
+#    - Let the player fight enemies using a simple combat system.
+#
+# 3. Add Items & Inventory System:
+#    - Expand the add_item() method to include weapons, potions, or keys.
+#    - Use items to restore health or unlock new areas.
+#
+# 4. Add Branching Storylines:
+#    - Choices can affect the ending (multiple endings).
+#    - Example: Helping someone may reward you later in the story.
+#
+# 5. Add Win/Loss Conditions:
+#    - Win by reaching a treasure or defeating a final boss.
+#    - Lose if health reaches zero or if you make the wrong choices.
+#
+# By expanding step by step, you can turn this simple demo
+# into a full text-based RPG adventure! 🚀
