@@ -43,7 +43,8 @@ This repo covers **fundamental concepts, practical examples, and projects** to b
 ### 5. Modules & Packages  
 - [x] Math Functions  
 - [x] Importing Modules  
-- [x] Built-in Modules (`math`, `random`, `datetime`)  
+- [x] Built-in Modules (`math`, `random`, `datetime`)
+- [x] Creating Modules & Packages
 
 ### 6. File Handling  
 - [x] Reading Files  
