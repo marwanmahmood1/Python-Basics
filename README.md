@@ -82,6 +82,15 @@ A beginner-friendly CLI application that evaluates password strength based on:
 
 It also checks against a small list of common weak passwords and provides feedback for improvement.  
 
+### Improving The Program
+This project can be expanded to provide a more robust password strength check. Some ideas:
+
+1. **Configurable Rules** – Allow the user to define requirements (e.g., minimum length, number of special characters).  
+2. **Detailed Feedback** – Instead of only saying “weak” or “strong,” give suggestions like *“Add more special characters”* or *“Password is too short.”*  
+3. **Password Entropy** – Calculate entropy (a measure of randomness) for a more mathematical evaluation of strength.  
+4. **Color-coded Output** – Use libraries like `colorama` to highlight results (green = strong, red = weak).  
+5. **Larger Weak Password List** – Check against a bigger dictionary file of common weak passwords (practicing file handling).  
+6. **Unit Tests** – Add automated tests with `unittest` or `pytest` to verify that the strength checker works as expected.  
 
 ## 🎮 Project 2 – Text Adventure Game
 
@@ -109,9 +118,6 @@ This project demonstrates how to build a **practical Python application** that s
 4. **Error Handling** – Input validation (like checking if the amount is a number) prevents program crashes.  
 5. **User Interaction** – A simple text menu makes the program interactive and user-friendly.  
 
-By completing this project, you practice **real-world coding skills** while applying the fundamentals of Python in a way that directly solves a problem people face in daily life.
-
-
 ### Improving The Program
 Once you master the basics, you can **expand this project** with new features:
 
@@ -121,8 +127,6 @@ Once you master the basics, you can **expand this project** with new features:
 - Export data to **CSV or JSON files** for external use.  
 - Add a **search function** to filter by category or amount.  
 - Create a simple **GUI (Graphical User Interface)** with `tkinter` or `PyQt`.  
-
-These improvements will not only make your tracker more powerful, but also help you practice **intermediate Python skills** step by step.
 
 ---
 
