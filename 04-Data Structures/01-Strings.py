@@ -1,5 +1,5 @@
 # ============================
-#      STRING METHODS
+#           STRINGS
 # ============================
 
 # A string is a sequence of characters, and Python provides built-in methods to work with them

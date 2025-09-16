@@ -1,6 +1,6 @@
-# =========================
+# ==========================
 #       READING FILES
-# =========================
+# ==========================
 # Reading files essentially is what the name suggests, however it consists of various modes:
 
 # "r" → READ (default): Opens the file for reading. (Returns error if the file does not exist)

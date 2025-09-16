@@ -1,5 +1,5 @@
 # =========================
-#          LISTS
+#           LISTS
 # =========================
 # A list is a collection of items stored in a single variable.
 # Lists are ordered, mutable (can be changed), and allow duplicate values.

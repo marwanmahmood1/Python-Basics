@@ -1,5 +1,5 @@
 # =========================
-#       FUNCTIONS
+#         FUNCTIONS
 # =========================
 # Functions are reusable blocks of code that perform a specific task.
 # Instead of repeating the same code multiple times, we define it once as a function and call it whenever needed.

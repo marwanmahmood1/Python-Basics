@@ -1,6 +1,6 @@
-# ======================
-#        IF STATEMENTS
-# ======================
+# =======================
+#      IF STATEMENTS
+# =======================
 
 # These are the three main statements we use for decision-making based on factors specified by the user:
 

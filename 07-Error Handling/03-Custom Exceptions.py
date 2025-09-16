@@ -1,6 +1,6 @@
-# =========================
-#     CUSTOM EXCEPTIONS
-# =========================
+# ==========================
+#      CUSTOM EXCEPTIONS
+# ==========================
 # You can create your own exception classes by extending Exception.
 
 class NegativeAgeError(Exception):

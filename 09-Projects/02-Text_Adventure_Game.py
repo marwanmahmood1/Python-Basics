@@ -1,6 +1,6 @@
-# ================================
-#       TEXT ADVENTURE GAME
-# ================================
+# =================================
+#        TEXT ADVENTURE GAME
+# =================================
 # This project practices conditionals, loops, and OOP
 # Player makes choices that change the story outcome
 

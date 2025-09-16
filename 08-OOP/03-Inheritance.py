@@ -1,6 +1,6 @@
-# =========================
+# ==========================
 #        INHERITANCE
-# =========================
+# ==========================
 # Inheritance allows a class to use code from another PARENT class.
 
 # Parent class

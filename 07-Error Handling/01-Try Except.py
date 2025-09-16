@@ -1,6 +1,6 @@
-# =========================
+# ==========================
 #        TRY / EXCEPT
-# =========================
+# ==========================
 # Errors (exceptions) can stop a program from running.
 # To prevent crashes, we can "handle" them using try/except.
 

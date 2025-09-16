@@ -1,5 +1,5 @@
 # =========================
-#      USER INPUT
+#        USER INPUT
 # =========================
 
 # In Python, you can get input from the user using the input() function.

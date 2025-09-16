@@ -1,14 +1,12 @@
 # =========================
 #           SCOPE
 # =========================
-# Scope = The region of the code where a variable is recognized and can be used.
-#
+# Scope refers to region of the code where a variable is recognized and can be used.
 # Python follows the "LEGB Rule" for variable lookup:
 # L = Local (inside current function)
 # E = Enclosing (in parent function if nested)
 # G = Global (declared at top-level of the file)
 # B = Built-in (Python’s reserved names like len, print, etc.)
-
 # -------------------------------------
 
 # GLOBAL SCOPE

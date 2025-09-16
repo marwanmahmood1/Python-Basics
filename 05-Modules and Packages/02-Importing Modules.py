@@ -1,6 +1,6 @@
-# =========================
-#     IMPORTING MODULES
-# =========================
+# ===========================
+#      IMPORTING MODULES
+# ===========================
 # Python allows you to import external modules to use their functions and constants.
 
 # Import the entire module

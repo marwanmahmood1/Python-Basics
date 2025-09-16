@@ -1,6 +1,6 @@
-# ===============================
-#   CREATING MODULES & PACKAGES
-# ===============================
+# =================================
+#    CREATING MODULES & PACKAGES
+# =================================
 
 # --- Creating a Custom Module ---
 # Step 1: Create a new Python file (e.g., my_module.py) in the same folder.

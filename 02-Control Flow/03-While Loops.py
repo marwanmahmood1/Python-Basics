@@ -1,5 +1,5 @@
 # ======================
-#        WHILE LOOPS
+#      WHILE LOOPS
 # ======================
 
 # As long as a condition specified by the user remains true, while loops would keep going until the condition is no longer satisfied.

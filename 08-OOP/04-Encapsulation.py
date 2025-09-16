@@ -1,5 +1,5 @@
 # =========================
-#      ENCAPSULATION
+#       ENCAPSULATION
 # =========================
 # Encapsulation is essentially restricting access to data (attributes/methods).
 # In Python, this is done using naming conventions:

@@ -1,5 +1,5 @@
 # ================================
-#       EXPENSES TRACKER
+#         EXPENSES TRACKER
 # ================================
 
 # How It Works:

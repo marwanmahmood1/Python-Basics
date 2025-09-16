@@ -1,6 +1,6 @@
-# =========================
-#     PYTHON MATH FUNCTIONS
-# =========================
+# ===============================
+#        MATH FUNCTIONS
+# ===============================
 
 # Python has built-in math functions, and more advanced ones in the math module
 

@@ -1,6 +1,6 @@
-# =========================
-# PASSWORD STRENGTH CHECKER
-# =========================
+# ===============================
+#    PASSWORD STRENGTH CHECKER
+# ===============================
 # This script evaluates the strength of a given password based on:
 # - Length
 # - Uppercase & lowercase letters

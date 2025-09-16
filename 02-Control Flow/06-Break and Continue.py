@@ -1,6 +1,6 @@
-# =========================
-#     BREAK & CONTINUE
-# =========================
+# ==========================
+#      BREAK & CONTINUE
+# ==========================
 # Loops usually run until their condition is no longer true.
 # But sometimes, we need to control the loop ourselves:
 # - break → stops the loop completely.

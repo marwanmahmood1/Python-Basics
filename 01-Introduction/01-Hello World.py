@@ -1,5 +1,5 @@
 # ========================
-#     HELLO, PYTHON!
+#     HELLO, WORLD!
 # ========================
 
 # This is your very first Python program.

@@ -1,6 +1,6 @@
-# =========================
-#          TUPLES
-# =========================
+# ==========================
+#           TUPLES
+# ==========================
 # Tuples are like lists, but they are IMMUTABLE (cannot be changed after creation).
 # Use them when you want to store a fixed collection of items.
 

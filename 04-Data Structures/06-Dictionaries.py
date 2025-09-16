@@ -1,6 +1,6 @@
-# =========================
-#       DICTIONARIES
-# =========================
+# ==========================
+#        DICTIONARIES
+# ==========================
 # Dictionaries store data in KEY:VALUE pairs, where:
 # - Values can be of any type, but
 # - Keys must be unique

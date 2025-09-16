@@ -1,6 +1,6 @@
-# ============================
-#        LOGICAL OPERATORS
-# ============================
+# =============================
+#       LOGICAL OPERATORS
+# =============================
 
 # Logical Operators are those that build on conditionals and allow for more complex decision-making in programs
 

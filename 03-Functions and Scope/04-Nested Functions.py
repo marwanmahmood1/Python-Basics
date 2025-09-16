@@ -1,6 +1,6 @@
-# =========================
-#     NESTED FUNCTIONS
-# =========================
+# ==========================
+#      NESTED FUNCTIONS
+# ==========================
 # A nested function is simply a function defined INSIDE another function.
 # Why use them?
 # - To keep your code organized

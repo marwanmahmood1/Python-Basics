@@ -1,6 +1,6 @@
-# =========================
-#     BUILT-IN MODULES
-# =========================
+# ==========================
+#      BUILT-IN MODULES
+# ==========================
 # Python has many built-in modules to handle common tasks.
 
 import random

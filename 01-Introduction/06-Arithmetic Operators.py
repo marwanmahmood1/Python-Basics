@@ -1,5 +1,5 @@
 # =============================
-#    ARITHMETIC OPERATORS
+#     ARITHMETIC OPERATORS
 # =============================
 
 # Python supports several arithmetic operators for numbers:

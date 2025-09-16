@@ -1,6 +1,6 @@
-# =========================
-#     RAISING EXCEPTIONS
-# =========================
+# ===========================
+#      RAISING EXCEPTIONS
+# ===========================
 # Sometimes you want to manually raise an error.
 # This is where we use the `raise` keyword to trigger an exception.
 

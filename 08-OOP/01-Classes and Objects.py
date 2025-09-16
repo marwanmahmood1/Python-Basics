@@ -1,5 +1,5 @@
 # =========================
-#    CLASSES & OBJECTS
+#     CLASSES & OBJECTS
 # =========================
 # A class is like a blueprint/template for creating objects.
 # An object is an instance of a class, built from the blueprint.

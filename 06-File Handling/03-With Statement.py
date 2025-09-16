@@ -1,6 +1,6 @@
-# =========================
-#     WITH STATEMENT
-# =========================
+# ==========================
+#      "WITH" STATEMENT
+# ==========================
 
 # The "with" statement automatically opens and closes files.
 # Benefits:

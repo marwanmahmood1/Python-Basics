@@ -1,6 +1,6 @@
-# =========================
+# ==========================
 #       WRITING FILES
-# =========================
+# ==========================
 
 # Similar to Reading Files, there are writing modes:
 # "w" → Write (overwrites the file if it exists, creates if not)

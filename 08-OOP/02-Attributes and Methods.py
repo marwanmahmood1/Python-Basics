@@ -1,6 +1,6 @@
-# =========================
-#   ATTRIBUTES & METHODS
-# =========================
+# ============================
+#     ATTRIBUTES & METHODS
+# ============================
 # Attributes are variables inside a class
 # Methods are functions inside a class
 

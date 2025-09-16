@@ -1,5 +1,5 @@
 # =========================
-#        2D LISTS
+#         2D LISTS
 # =========================
 # A 2D list is basically a "list of lists".
 # Think of it like a grid or a table with rows and columns.
