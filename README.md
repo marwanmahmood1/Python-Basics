@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
 
-A structured beginner-to-intermediate roadmap for learning Python.  
+My personal structured beginner-to-intermediate roadmap for learning Python.  
 This repo covers **fundamental concepts, practical examples, and projects** to build a strong foundation in Python programming.  
 
 ---
